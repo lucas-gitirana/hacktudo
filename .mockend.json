@@ -1,32 +1,34 @@
-[
-    {
-        "cep": 49030010,
-        "endereco":"Praça Acrísio Garcez",
-        "bairro":"Farolândia",
-        "cidade":"Aracaju",
-        "estado":"SE",
-        "numero": 56,
-        "complemento":"bloco A",
-        "proprietario": "Toby J. Poore"  
-    },
-    {
-        "cep": 59621334,
-        "endereco":"Rua General Suzine",
-        "bairro":"Barrocas",
-        "cidade":"Mossoró",
-        "estado":"RN",
-        "numero": 190,
-        "complemento":"casa 02",
-        "proprietario": "Mark S."  
-    },
-    {
-        "cep": 87209060,
-        "endereco":"Avenida Piauí",
-        "bairro":"Zona 03",
-        "cidade":"Cianorte",
-        "estado":"PR",
-        "numero": 589,
-        "complemento":"ap. 204",
-        "proprietario": "Yilong Ma"    
-    }
-]
+{
+    "registros":[
+        {
+            "cep": 49030010,
+            "endereco":"Praça Acrísio Garcez",
+            "bairro":"Farolândia",
+            "cidade":"Aracaju",
+            "estado":"SE",
+            "numero": 56,
+            "complemento":"bloco A",
+            "proprietario": "Toby J. Poore"  
+        },
+        {
+            "cep": 59621334,
+            "endereco":"Rua General Suzine",
+            "bairro":"Barrocas",
+            "cidade":"Mossoró",
+            "estado":"RN",
+            "numero": 190,
+            "complemento":"casa 02",
+            "proprietario": "Mark S."  
+        },
+        {
+            "cep": 87209060,
+            "endereco":"Avenida Piauí",
+            "bairro":"Zona 03",
+            "cidade":"Cianorte",
+            "estado":"PR",
+            "numero": 589,
+            "complemento":"ap. 204",
+            "proprietario": "Yilong Ma"    
+        }
+    ]
+}
